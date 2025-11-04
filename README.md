@@ -6,6 +6,16 @@ Environment: Python, numpy, pandas, matplotlib, scikit-learn, pytorch.
 
 ---
 
+Integrantes:
+
+-   Calle Chambe, Efraín
+
+-   Poma Huamán, Brayan
+
+-   Sánchez Vásquez, Barbara Gabriela
+
+---
+
 ## Programming Exercises
 
 ### Part I: Eigenfaces for Face Recognition
